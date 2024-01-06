@@ -16,9 +16,9 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","a_y_a_n_xo")
 # Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME" , "Ayanokoji_Robot")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "Ayanokoji")
+BOT_NAME = getenv("BOT_NAME" , "")
 #get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME" , "MissYumikoo")
+ASSUSERNAME = getenv("ASSUSERNAME" , "lords_team7")
 EVALOP = list(map(int, getenv("EVALOP", "2105971379 5360305806 6691393517").split()))
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
