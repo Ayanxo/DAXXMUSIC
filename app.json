@@ -37,7 +37,7 @@
         "value": "",
         "required": true
       },
-      "STRING_SESSION": {AQBiMZkAjAbPzf6JwEltMGlxd0FGxfq-dUjdfNqg4dgpzafO0R_t1LP_arZSndNoW-70wE-nfvwhHp4RSQYn7W6QYQ4GiMXGZPu_zMwkVX6smngXLw3XSkKa46dlkaqfoYmYzkiOkI80MX4lNDSdm5cmEvjCnEDJEjQNPsW4IHN2iFqSyLTNFX2ZvTZqqTU8GC6xbRHBa7myHkMdNfUY5zrpUbOd4lIvtb3_LWmmsBtAYqLhi7rIw8IdXr5OkclG5x1SAHQEaqdbU9WwALUeLi7Xl59JkYsxBhawIddnMHiZI6hUjuejk7VTkKQw8WOSvBksZO2HsKCAPrS04KzHIhTjY4PI4AAAAAFjZd-vAA
+      "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @STRINGSEASO_NBOT on Telegram.",
         "value": "",
         "required": true
@@ -47,7 +47,7 @@
         "value": "",
         "required": false
       },
-      "HEROKU_APP_NAME": {ayanoacx
+      "HEROKU_APP_NAME": {ayanxo
         "description": "Your heroku app name",
         "value": "",
         "required": false
