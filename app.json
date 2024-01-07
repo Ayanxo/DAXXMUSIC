@@ -1,7 +1,7 @@
 {
     "name": "𝙳𝙰𝚇𝚇 𝙼𝚄𝚂𝙸𝙲",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/dbb3222d0fd3712e2a0e4.jpg",
+    "logo": "https://graph.org/file/31267d7be4ac66ff56175.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -12,29 +12,29 @@
     "pyrogram"
     ],
     "env": {
-      "API_ID": {6435225
+      "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "6435225",
         "required": true
       },
-      "API_HASH": {4e984ea35f854762dcde906dce426c2d
+      "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "4e984ea35f854762dcde906dce426c2d",
         "required": true
       },
-      "BOT_TOKEN": {6908385024:AAHfszgYqqhWozAA1Qvz9yD8zrbRta7h_qY
+      "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6908385024:AAHfszgYqqhWozAA1Qvz9yD8zrbRta7h_qY",
         "required": true
       },
-      "MONGO_DB_URI": {mongodb+srv://Mrdaxx123:Mrdaxx123@cluster0.q1da65h.mongodb.net/?retryWrites=true&w=majority
+      "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://Mrdaxx123:Mrdaxx123@cluster0.q1da65h.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
-      "OWNER_ID": {1304244554
+      "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "1304244554",
         "required": true
       },
       "STRING_SESSION": {
@@ -42,19 +42,19 @@
         "value": "",
         "required": true
       },
-      "HEROKU_API_KEY": {b269e41a-ad50-403e-bf7c-32513f1d1a82
+      "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "b269e41a-ad50-403e-bf7c-32513f1d1a82",
         "required": false
       },
-      "HEROKU_APP_NAME": {ayanxo
+      "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "",
+        "value": "ayanxo",
         "required": false
       },
-      "LOGGER_ID": {-1001666682398
+      "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001666682398",
         "required": true
       }
     },
